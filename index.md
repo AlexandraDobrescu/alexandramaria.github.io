@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-The laboratory aims at a collection of materials for teaching, learning and integrating knowledge from theory to practice. Therefor:
+The laboratory aims at a collection of materials for teaching, learning and integrating knowledge from theory to practice. Therefore:
 
 * Have [Anaconda](https://www.anaconda.com/products/individual) installed on your machine.
 * Have [Python 3.5+](https://www.python.org/downloads/) installed.
