@@ -1,4 +1,6 @@
-# LAB 1 AI
+# MAIN PAGE 
+
+_NOTE:_ under construction
 
 ## Prerequisites
 
@@ -9,3 +11,7 @@ The laboratory aims at a collection of materials for teaching, learning and inte
 
 _Note:_ `python --version` helps you to check the Python version in the command line of your system.
 * Have [Jupyter](https://jupyter.org/install) ecosystem ready!
+
+## Laboratory
+
+[[LAB1 Notebook]](https://github.com/AlexandraDobrescu/teachingAI/blob/master/Lab1%20AI.html)
