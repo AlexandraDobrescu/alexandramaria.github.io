@@ -27,4 +27,4 @@ _Note:_ `python --version` helps you to check the Python version in the command 
 
 ## Community
 
-Whether that discussion will be held remains to be seen.
+Whether the discussion will be held remains to be seen.
