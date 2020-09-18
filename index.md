@@ -24,7 +24,7 @@ _Note:_ `python --version` helps you to check the Python version in the command 
 
 [**LAB 01 Notebook**](https://nbviewer.jupyter.org/github/AlexandraDobrescu/teachingAI/blob/master/ENG_module/Lab01_AI.ipynb)
 
-[**LAB 02 Notebook**](https://nbviewer.jupyter.org/github/AlexandraDobrescu/teachingAI/blob/master/ENG_module/testlab02_AI.ipynb)
+[**LAB 02 Notebook**]
 
 ## Community
 
