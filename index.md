@@ -23,7 +23,8 @@ _Note:_ `python --version` helps you to check the Python version in the command 
 ## Laboratory
 
 [**LAB 01 Notebook**](https://nbviewer.jupyter.org/github/AlexandraDobrescu/teachingAI/blob/master/ENG_module/Lab01_AI.ipynb)
-[**LAB 02**](https://github.com/AlexandraDobrescu/teachingAI/blob/master/Lab02_AI.html)
+
+[**LAB 02 Notebook**](https://nbviewer.jupyter.org/github/AlexandraDobrescu/teachingAI/blob/master/ENG_module/testlab02_AI.ipynb)
 
 ## Community
 
