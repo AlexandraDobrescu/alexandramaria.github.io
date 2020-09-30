@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-The laboratory aims at a collection of materials for teaching, learning and integrating knowledge from theory to practice. Therefore:
+The laboratory aims to provide a collection of materials for teaching, learning and integrating knowledge from theory to practice. Therefore:
 
 * Have [Anaconda](https://www.anaconda.com/products/individual) installed on your machine.
 
@@ -17,7 +17,7 @@ _Note:_ `python --version` helps you to check the Python version in the command 
 * Have [Jupyter](https://jupyter.org/install) ecosystem ready!
   * For an interactive lesson, you should be able to complete the exercises from your local Jupyter Notebook.
   * Clone or download the notebooks for each lab from [ENG_module](https://github.com/AlexandraDobrescu/teachingAI/tree/master/ENG_module) repository.
-  * Don't forget to run the `jupyter notebook` command in the **same directory**.
+  * Don't forget to run the `jupyter notebook` command in the **same directory** as your repository.
 
 
 ## Laboratory
