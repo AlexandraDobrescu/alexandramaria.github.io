@@ -22,7 +22,7 @@ _Note:_ La commande  `python --version` aide à vérifier la version courante du
 
 ## Laboratoir
 
-[**LAB 01 Notebook**] - On ajoute le lien vers le laboratoire un jour avant, 5 Octobre 2020.
+[**LAB 01 Notebook**](https://nbviewer.jupyter.org/github/AlexandraDobrescu/teachingAI/blob/master/FR_module/Lab01_IA.ipynb)
 
 [**LAB 02 Notebook**] - On ajoute le lien vers le laboratoire un jour avant, 12 Octobre 2020.
 
