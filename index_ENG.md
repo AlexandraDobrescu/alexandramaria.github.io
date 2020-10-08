@@ -22,7 +22,7 @@ _Note:_ `python --version` helps you to check the Python version in the command 
 
 ## Laboratory
 
-[**LAB 01 Notebook**] - the notebook is available one day before the lab, October 7th.
+[**LAB 01 Notebook**](https://nbviewer.jupyter.org/github/AlexandraDobrescu/teachingAI/blob/master/ENG_module/Lab1_AI.ipynb)
 
 [**LAB 02 Notebook**] - the notebook is available one day before the lab, October 14th.
 
