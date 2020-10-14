@@ -24,7 +24,7 @@ _Note:_ `python --version` helps you to check the Python version in the command 
 
 [**LAB 01 Notebook**](https://nbviewer.jupyter.org/github/AlexandraDobrescu/teachingAI/blob/master/ENG_module/Lab1_AI.ipynb)
 
-[**LAB 02 Notebook**] - the notebook is available one day before the lab, October 14th.
+[**LAB 02 Notebook**] - Available on Moodle, 15th of October, 8.00 am.
 
 ## Community
 
